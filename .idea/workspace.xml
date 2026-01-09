@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81483370-8ef3-4fb2-a41e-aecdabb3b7a0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CP_TEMPLATE_CPP" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="37l4Crb5ZxPARO8Q5eq3k0x9YLu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "AutoCp Solution.Front-Back Matching.executor": "Run",
+    "AutoCp Solution.Missing Number.executor": "Run",
+    "AutoCp Solution.Weird Algorithm.executor": "Run",
+    "AutoCp Stress Testing.Stress Testing Front-Back Matching.executor": "Run",
+    "C/C++ File.B_Happy_Number.cpp.executor": "Run",
+    "C/C++ File.Two_Pile_Game.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/jishu/OneDrive/Desktop/cp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="AutoCp Solution.Missing Number">
+    <configuration name="Front-Back Matching" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CodeChef - START220D\Two_Pile_Game.cpp" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Missing Number" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CSES - CSES Problem Set\Missing_Number.cpp" />
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="compiler" run_configuration_type="CppFileRunConfiguration" />
+      </method>
+    </configuration>
+    <configuration name="Weird Algorithm" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CSES - CSES Problem Set\Weird_Algorithm.cpp" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stress Testing Front-Back Matching" type="AutoCpStress" factoryName="AutoCpStress" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CodeChef - START220D\Two_Pile_Game.cpp" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CodeChef - START220D\Two_Pile_Game.cpp" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Two_Pile_Game.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cp" TARGET_NAME="Two_Pile_Game.cpp" CONFIG_NAME="Two_Pile_Game.cpp">
+      <option name="sourceFile" value="CodeChef - START220D\Two_Pile_Game.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="AutoCp Solution.Missing Number" />
+      <item itemvalue="AutoCp Solution.Weird Algorithm" />
+      <item itemvalue="AutoCp Solution.Front-Back Matching" />
+      <item itemvalue="AutoCp Stress Testing.Stress Testing Front-Back Matching" />
+      <item itemvalue="C/C++ File.compiler" />
+      <item itemvalue="C/C++ File.Two_Pile_Game.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="AutoCp Solution.Missing Number" />
+        <item itemvalue="AutoCp Solution.Weird Algorithm" />
+        <item itemvalue="C/C++ File.Two_Pile_Game.cpp" />
+        <item itemvalue="AutoCp Stress Testing.Stress Testing Front-Back Matching" />
+        <item itemvalue="AutoCp Solution.Front-Back Matching" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81483370-8ef3-4fb2-a41e-aecdabb3b7a0" name="Changes" comment="" />
+      <created>1767464199241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767464199241</updated>
+      <workItem from="1767464200476" duration="1569000" />
+      <workItem from="1767552905721" duration="21000" />
+      <workItem from="1767799889523" duration="5468000" />
+      <workItem from="1767913563949" duration="726000" />
+      <workItem from="1767917277719" duration="3404000" />
+      <workItem from="1767959296866" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
