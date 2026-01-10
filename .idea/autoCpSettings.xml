@@ -4,6 +4,7 @@
     <option name="askBeforeFileGeneration" value="false" />
     <option name="fileGenerationRoot">
       <map>
+        <entry key="AtCoder" value="$groupName" />
         <entry key="CSES" value="$groupName" />
         <entry key="CodeChef" value="$groupName" />
         <entry key="Codeforces" value="$groupName" />

@@ -17,7 +17,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81483370-8ef3-4fb2-a41e-aecdabb3b7a0" name="Changes" comment="" />
+    <list default="true" id="81483370-8ef3-4fb2-a41e-aecdabb3b7a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.cph/.D_Forbidden_List_2.cpp_c10f88f0961510dad05b3ce6fd65f3e6.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder - AtCoder Beginner Contest 440/A___Octave.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder - AtCoder Beginner Contest 440/B___Trifecta.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder - AtCoder Beginner Contest 440/C___Striped_Horse.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AtCoder - AtCoder Beginner Contest 440/D___Forbidden_List_2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - COMPFEST 15 - Preliminary Online Mirror Unrated ICPC Rules Teams Preferred/A_Ambitious_Kid.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 898 Div 4/C_Target_Practice.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 902 Div 2 based on COMPFEST 15 - Final Round/A_Goals_of_Victory.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D_Forbidden_List_2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.autocp" beforeDir="false" afterPath="$PROJECT_DIR$/.autocp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cph/.A_2_n_2_n.cpp_f5ff887ac43c8102f4a9175cded039d6.prob" beforeDir="false" afterPath="$PROJECT_DIR$/.cph/.A_2_n_2_n.cpp_f5ff887ac43c8102f4a9175cded039d6.prob" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cph/.D_Kadomatsu_Subsequence.cpp_e8b617d5f0cdacfc2a267559c0c8a8b7.prob" beforeDir="false" afterPath="$PROJECT_DIR$/.cph/.D_Kadomatsu_Subsequence.cpp_e8b617d5f0cdacfc2a267559c0c8a8b7.prob" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/autoCpSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/autoCpSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeforces - Codeforces Round 900 Div 3/A_How_Much_Does_Daytona_Cost.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces - Codeforces Round 900 Div 3/A_How_Much_Does_Daytona_Cost.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +52,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Codeforces - Codeforces Round 898 Div 4/C_Target_Practice.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Codeforces - Codeforces Round 902 Div 2 based on COMPFEST 15 - Final Round/A_Goals_of_Victory.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -46,6 +69,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "AutoCp Solution.A - Octave.executor": "Run",
+    "AutoCp Solution.A. Goals of Victory.executor": "Run",
+    "AutoCp Solution.A. How Much Does Daytona Cost?.executor": "Run",
+    "AutoCp Solution.B - Trifecta.executor": "Run",
+    "AutoCp Solution.C. Target Practice.executor": "Run",
     "AutoCp Solution.Front-Back Matching.executor": "Run",
     "AutoCp Solution.Missing Number.executor": "Run",
     "AutoCp Solution.Weird Algorithm.executor": "Run",
@@ -57,10 +85,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/jishu/OneDrive/Desktop/cp",
     "node.js.detected.package.eslint": "true",
@@ -68,75 +97,81 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.qodana",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="AutoCp Solution.Missing Number">
-    <configuration name="Front-Back Matching" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+  <component name="RunManager" selected="AutoCp Solution.C - Striped Horse">
+    <configuration name="A - Octave" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="allowRunningInParallel" value="false" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
       </option>
-      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CodeChef - START220D\Two_Pile_Game.cpp" />
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\AtCoder - AtCoder Beginner Contest 440\A___Octave.cpp" />
       <method v="2" />
     </configuration>
-    <configuration name="Missing Number" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="A. Goals of Victory" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="allowRunningInParallel" value="false" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
       </option>
-      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CSES - CSES Problem Set\Missing_Number.cpp" />
-      <method v="2">
-        <option name="RunConfigurationTask" enabled="true" run_configuration_name="compiler" run_configuration_type="CppFileRunConfiguration" />
-      </method>
-    </configuration>
-    <configuration name="Weird Algorithm" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="allowRunningInParallel" value="false" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CSES - CSES Problem Set\Weird_Algorithm.cpp" />
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\Codeforces - Codeforces Round 902 Div 2 based on COMPFEST 15 - Final Round\A_Goals_of_Victory.cpp" />
       <method v="2" />
     </configuration>
-    <configuration name="Stress Testing Front-Back Matching" type="AutoCpStress" factoryName="AutoCpStress" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="A. How Much Does Daytona Cost?" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <option name="allowRunningInParallel" value="false" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
       </option>
-      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CodeChef - START220D\Two_Pile_Game.cpp" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="projectPathOnTarget" />
-      <option name="selectedOptions">
-        <list />
-      </option>
-      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\CodeChef - START220D\Two_Pile_Game.cpp" />
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\Codeforces - Codeforces Round 900 Div 3\A_How_Much_Does_Daytona_Cost.cpp" />
       <method v="2" />
     </configuration>
-    <configuration name="Two_Pile_Game.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cp" TARGET_NAME="Two_Pile_Game.cpp" CONFIG_NAME="Two_Pile_Game.cpp">
-      <option name="sourceFile" value="CodeChef - START220D\Two_Pile_Game.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
+    <configuration name="B - Trifecta" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\AtCoder - AtCoder Beginner Contest 440\B___Trifecta.cpp" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C - Striped Horse" type="AutoCp" factoryName="AutoCp" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\AtCoder - AtCoder Beginner Contest 440\C___Striped_Horse.cpp" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C. Target Practice" type="AutoCp" factoryName="AutoCp" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="solutionFilePath" value="C:\Users\jishu\OneDrive\Desktop\cp\Codeforces - Codeforces Round 898 Div 4\C_Target_Practice.cpp" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="AutoCp Solution.Missing Number" />
-      <item itemvalue="AutoCp Solution.Weird Algorithm" />
-      <item itemvalue="AutoCp Solution.Front-Back Matching" />
-      <item itemvalue="AutoCp Stress Testing.Stress Testing Front-Back Matching" />
+      <item itemvalue="AutoCp Solution.C - Striped Horse" />
+      <item itemvalue="AutoCp Solution.A - Octave" />
+      <item itemvalue="AutoCp Solution.B - Trifecta" />
+      <item itemvalue="AutoCp Solution.A. Goals of Victory" />
+      <item itemvalue="AutoCp Solution.A. How Much Does Daytona Cost?" />
+      <item itemvalue="AutoCp Solution.C. Target Practice" />
       <item itemvalue="C/C++ File.compiler" />
-      <item itemvalue="C/C++ File.Two_Pile_Game.cpp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="AutoCp Solution.Missing Number" />
-        <item itemvalue="AutoCp Solution.Weird Algorithm" />
-        <item itemvalue="C/C++ File.Two_Pile_Game.cpp" />
-        <item itemvalue="AutoCp Stress Testing.Stress Testing Front-Back Matching" />
-        <item itemvalue="AutoCp Solution.Front-Back Matching" />
+        <item itemvalue="AutoCp Solution.B - Trifecta" />
+        <item itemvalue="AutoCp Solution.A - Octave" />
+        <item itemvalue="AutoCp Solution.C. Target Practice" />
+        <item itemvalue="AutoCp Solution.A. Goals of Victory" />
+        <item itemvalue="AutoCp Solution.A. How Much Does Daytona Cost?" />
       </list>
     </recent_temporary>
   </component>
@@ -153,10 +188,20 @@
       <workItem from="1767913563949" duration="726000" />
       <workItem from="1767917277719" duration="3404000" />
       <workItem from="1767959296866" duration="311000" />
+      <workItem from="1767959913539" duration="594000" />
+      <workItem from="1768042374360" duration="4281000" />
+      <workItem from="1768047242586" duration="406000" />
+      <workItem from="1768047672989" duration="1924000" />
+      <workItem from="1768052640999" duration="626000" />
+      <workItem from="1768057379631" duration="373000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
