@@ -6,21 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 9 |
+| 22 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [brute force](#brute-force) (6)
+- [constructive algorithms](#constructive-algorithms) (4)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (1)
-- [math](#math) (4)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (6)
+- [math](#math) (13)
+- [number theory](#number-theory) (2)
+- [sortings](#sortings) (3)
+- [strings](#strings) (2)
 
 ---
 
@@ -28,14 +30,33 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.cpp) |
+| 2067B | [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/B%20-%20Two%20Large%20Bags/solution.cpp) |
+| 2067C | [Devyatkino](https://codeforces.com/contest/2067/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/C%20-%20Devyatkino/solution.cpp) |
+| 2106A | [Dr. TC](https://codeforces.com/contest/2106/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2106/A%20-%20Dr.%20TC/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.cpp) |
+
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2067C | [Devyatkino](https://codeforces.com/contest/2067/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/C%20-%20Devyatkino/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2067B | [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/B%20-%20Two%20Large%20Bags/solution.cpp) |
 
 ### games
 
@@ -50,38 +71,60 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2067B | [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/B%20-%20Two%20Large%20Bags/solution.cpp) |
+| 2067C | [Devyatkino](https://codeforces.com/contest/2067/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/C%20-%20Devyatkino/solution.cpp) |
+| 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
+| 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2075/A%20-%20To%20Zero/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
+| 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.cpp) |
+| 2067C | [Devyatkino](https://codeforces.com/contest/2067/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/C%20-%20Devyatkino/solution.cpp) |
+| 2071A | [The Play Never Ends](https://codeforces.com/contest/2071/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2071/A%20-%20The%20Play%20Never%20Ends/solution.cpp) |
+| 2072A | [New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2072/A%20-%20New%20World%2C%20New%20Me%2C%20New%20Array/solution.cpp) |
+| 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2075/A%20-%20To%20Zero/solution.cpp) |
 | 2086A | [Cloudberry Jam](https://codeforces.com/contest/2086/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2086/A%20-%20Cloudberry%20Jam/solution.cpp) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
+| 2104A | [Three Decks](https://codeforces.com/contest/2104/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2104/A%20-%20Three%20Decks/solution.cpp) |
+| 2106A | [Dr. TC](https://codeforces.com/contest/2106/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2106/A%20-%20Dr.%20TC/solution.cpp) |
+| 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 2071A | [The Play Never Ends](https://codeforces.com/contest/2071/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2071/A%20-%20The%20Play%20Never%20Ends/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2067B | [Two Large Bags](https://codeforces.com/contest/2067/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/2067/B%20-%20Two%20Large%20Bags/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/jishusardar/cp/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ---
